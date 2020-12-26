@@ -7,7 +7,8 @@ The current network uses Bidirectional LSTM units .
 *Increase data corpus to a large one .
 
 ### Credits for Poems 
-All credits for refering sample poems for building model which raps .
+All credits for refering sample poems for building model which raps.
+
 https://www.rapflowlyrics.com/2017/10/hindi-rap-lyrics-asli-kala.html
 https://www.rapflowlyrics.com/2017/03/hindi-rap-lyrics-sachapyar.html
 https://www.rapflowlyrics.com/2017/12/hindi-rap-lyrics-cha-rahi-he-udasi.html
