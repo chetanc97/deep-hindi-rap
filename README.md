@@ -9,12 +9,12 @@ The current network uses Bidirectional LSTM units .
 ### Credits for Poems 
 All credits for refering sample poems for building model which raps.
 
-https://www.rapflowlyrics.com/2017/10/hindi-rap-lyrics-asli-kala.html
-https://www.rapflowlyrics.com/2017/03/hindi-rap-lyrics-sachapyar.html
-https://www.rapflowlyrics.com/2017/12/hindi-rap-lyrics-cha-rahi-he-udasi.html
-https://www.rapflowlyrics.com/2017/12/hindi-rap-lyrics-pyarkoikhelnahi.html
-https://www.rapflowlyrics.com/2017/05/hindi-rap-lyrics-mukabala.html
-https://www.rapflowlyrics.com/2016/10/hindi-rap-lyrics-pyarkiumang.html
+https://www.rapflowlyrics.com/2017/10/hindi-rap-lyrics-asli-kala.html \n
+https://www.rapflowlyrics.com/2017/03/hindi-rap-lyrics-sachapyar.html \n
+https://www.rapflowlyrics.com/2017/12/hindi-rap-lyrics-cha-rahi-he-udasi.html \n
+https://www.rapflowlyrics.com/2017/12/hindi-rap-lyrics-pyarkoikhelnahi.html \n
+https://www.rapflowlyrics.com/2017/05/hindi-rap-lyrics-mukabala.html \n
+https://www.rapflowlyrics.com/2016/10/hindi-rap-lyrics-pyarkiumang.html \n
 https://www.rapflowlyrics.com/2016/09/hindi-rap-lyrics-badlav.html
 
 
