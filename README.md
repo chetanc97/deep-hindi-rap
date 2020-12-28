@@ -3,7 +3,7 @@ Following this amazing blog post by  [Andrej Karpathy](http://karpathy.github.io
 The current network uses Bidirectional LSTM units .
 
 ### Future work 
-*To make this model better using lecical stress and simple heuristic programming and feed the output as input to the same model .
+To make this model better using lecical stress and simple heuristic programming and feed the output as input to the same model .
 *Increase data corpus to a large one .
 
 ### Credits for Poems 
